@@ -7,7 +7,7 @@ This paclet aims to provide various functions for systematically producing numbe
 * expressed in terms of constants, special functions or equations;
 * constrained by bounds, steps or complexity.
 
-Current functions hosted:
+Currently hosted functions:
 
 * FareyRange
 * AlgebraicRange
